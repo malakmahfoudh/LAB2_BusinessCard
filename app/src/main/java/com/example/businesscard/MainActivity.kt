@@ -68,7 +68,7 @@ fun ContactInfoSection(modifier: Modifier = Modifier) {
                     modifier = Modifier.size(24.dp)
                 )
             },
-            text = "+11 (123) 444 555 666"
+            text = "+216 99 802 100"
         )
         // Séparateur
         Spacer(modifier = Modifier.height(1.dp))
@@ -83,7 +83,7 @@ fun ContactInfoSection(modifier: Modifier = Modifier) {
                     modifier = Modifier.size(24.dp)
                 )
             },
-            text = "@AndroidDev"
+            text = "@MalakMahfoudh"
         )
         // Séparateur
         Spacer(modifier = Modifier.height(1.dp))
@@ -98,7 +98,7 @@ fun ContactInfoSection(modifier: Modifier = Modifier) {
                     modifier = Modifier.size(24.dp)
                 )
             },
-            text = "jen.doe@android.com"
+            text = "malak.mahfoudh@android.com"
         )
     }
 }
@@ -121,7 +121,7 @@ fun NameAndTitleSection(modifier: Modifier = Modifier) {
         )
         //  Le Nom
         Text(
-            text = "Jennifer Doe",
+            text = "Malak Mahfoudh",
             fontSize = 32.sp,
             fontWeight = FontWeight.Bold,
             color = Color.Black,
